@@ -1,0 +1,6 @@
+solve
+csp extra/chess_queens.csp
+function leastConstrainingValuesHeuristic
+function minimumRemainingValuesHeuristic
+function maintainArcConsistency
+boolean None

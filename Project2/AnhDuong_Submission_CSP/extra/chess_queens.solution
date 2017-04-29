@@ -1,0 +1,12 @@
+# To run, type command:
+# 	python autograder.py -t extra/chess_queens.test
+import math
+print('RESULT = ' + str(result))
+l = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
+success = True
+for i in range(len(l)):
+	for j in range(i+1, len(l)):
+		if result[l[i]] == result[l[j]]:
+			success = False
+		if math.fabs(int(result[l[j]]) - int(result[l[i]])) == j - i:
+			success = False

@@ -1,0 +1,38 @@
+A 1 2 3 4 5 6 7 8
+B 1 2 3 4 5 6 7 8
+C 1 2 3 4 5 6 7 8
+D 1 2 3 4 5 6 7 8
+E 1 2 3 4 5 6 7 8
+F 1 2 3 4 5 6 7 8
+G 1 2 3 4 5 6 7 8
+H 1 2 3 4 5 6 7 8
+0
+NQueensConstraint A B
+NQueensConstraint A C
+NQueensConstraint A D
+NQueensConstraint A E
+NQueensConstraint A F 
+NQueensConstraint A G 
+NQueensConstraint A H 
+NQueensConstraint B C 
+NQueensConstraint B D 
+NQueensConstraint B E 
+NQueensConstraint B F 
+NQueensConstraint B G 
+NQueensConstraint B H 
+NQueensConstraint C D
+NQueensConstraint C E
+NQueensConstraint C F
+NQueensConstraint C G
+NQueensConstraint C H
+NQueensConstraint D E
+NQueensConstraint D F
+NQueensConstraint D G
+NQueensConstraint D H 
+NQueensConstraint E F 
+NQueensConstraint E G 
+NQueensConstraint E H
+NQueensConstraint F G
+NQueensConstraint F H
+NQueensConstraint G H
+0
